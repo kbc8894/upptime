@@ -9,8 +9,8 @@ sites:
     url: https://gl-mt1300.byungchan.kim
   - name: rt-ac58u
     url: https://rt-ac58u.byungchan.kim
-  - name: Syncthing
-    url: https://syncthing.byungchan.kim
+  - name: Bitwarden
+    url: https://vault.byungchan.kim
   - name: Jellyfin
     url: https://jellyfin.byungchan.kim
   - name: Adguard Home
