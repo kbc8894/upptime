@@ -40,18 +40,20 @@
     "url": "https://rt-ac58u.byungchan.kim",
     "icon": "https://favicons.githubusercontent.com/rt-ac58u.byungchan.kim",
     "slug": "rt-ac58u",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.95%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
     "time": 666,
     "timeDay": 433,
     "timeWeek": 666,
     "timeMonth": 666,
     "timeYear": 666,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-27": 1
+    }
   },
   {
     "name": "Bitwarden",
@@ -76,25 +78,27 @@
     "url": "https://jellyfin.byungchan.kim",
     "icon": "https://favicons.githubusercontent.com/jellyfin.byungchan.kim",
     "slug": "jellyfin",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 830,
     "timeDay": 749,
     "timeWeek": 830,
     "timeMonth": 830,
     "timeYear": 830,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-27": 1
+    }
   },
   {
     "name": "Adguard Home",
     "url": "https://adguard-home.byungchan.kim",
     "icon": "https://favicons.githubusercontent.com/adguard-home.byungchan.kim",
     "slug": "adguard-home",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -105,6 +109,8 @@
     "timeWeek": 864,
     "timeMonth": 864,
     "timeYear": 864,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-27": 0
+    }
   }
 ]
