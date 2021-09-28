@@ -22,10 +22,10 @@
     "url": "https://gl-mt1300.byungchan.kim",
     "icon": "https://favicons.githubusercontent.com/gl-mt1300.byungchan.kim",
     "slug": "gl-ml1300",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 701,
@@ -33,7 +33,9 @@
     "timeWeek": 701,
     "timeMonth": 709,
     "timeYear": 701,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-28": 2
+    }
   },
   {
     "name": "rt-ac58u",
@@ -60,9 +62,9 @@
     "url": "https://vault.byungchan.kim",
     "icon": "https://favicons.githubusercontent.com/vault.byungchan.kim",
     "slug": "bitwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.92%",
@@ -72,6 +74,7 @@
     "timeMonth": 756,
     "timeYear": 750,
     "dailyMinutesDown": {
+      "2021-09-28": 0,
       "2021-09-12": 39
     }
   },
