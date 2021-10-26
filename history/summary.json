@@ -43,10 +43,10 @@
     "url": "https://rt-ac58u.byungchan.kim",
     "icon": "https://favicons.githubusercontent.com/rt-ac58u.byungchan.kim",
     "slug": "rt-ac58u",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "87.19%",
-    "uptimeWeek": "98.17%",
+    "uptimeDay": "87.11%",
+    "uptimeWeek": "98.16%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "99.71%",
     "time": 689,
@@ -55,7 +55,7 @@
     "timeMonth": 684,
     "timeYear": 689,
     "dailyMinutesDown": {
-      "2021-10-26": 184,
+      "2021-10-26": 185,
       "2021-08-27": 78
     }
   },
@@ -86,10 +86,10 @@
     "url": "https://jellyfin.byungchan.kim",
     "icon": "https://favicons.githubusercontent.com/jellyfin.byungchan.kim",
     "slug": "jellyfin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "87.23%",
-    "uptimeWeek": "98.18%",
+    "uptimeDay": "87.19%",
+    "uptimeWeek": "98.17%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "99.71%",
     "time": 882,
@@ -98,7 +98,7 @@
     "timeMonth": 925,
     "timeYear": 882,
     "dailyMinutesDown": {
-      "2021-10-26": 184,
+      "2021-10-26": 185,
       "2021-08-27": 78
     }
   },
@@ -107,7 +107,7 @@
     "url": "https://adguard-home.byungchan.kim",
     "icon": "https://favicons.githubusercontent.com/adguard-home.byungchan.kim",
     "slug": "adguard-home",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
     "uptimeDay": "87.26%",
     "uptimeWeek": "98.18%",
