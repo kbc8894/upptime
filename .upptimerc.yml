@@ -13,8 +13,6 @@ sites:
     url: https://vault.byungchan.kim
   - name: Jellyfin
     url: https://jellyfin.byungchan.kim
-  - name: Adguard Home
-    url: https://adguard-home.byungchan.kim
 assignees:
   - kbc8894
 status-website:
