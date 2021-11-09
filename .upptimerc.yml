@@ -13,8 +13,7 @@ sites:
     url: https://vault.byungchan.kim
   - name: Jellyfin
     url: https://jellyfin.byungchan.kim
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+
 assignees:
   - kbc8894
 status-website:
