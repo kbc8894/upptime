@@ -5,8 +5,6 @@ user-agent: kbc8894
 sites:
   - name: Nginx Proxy Manager
     url: https://npm.byungchan.kim
-  - name: gl-ml1300
-    url: https://gl-mt1300.byungchan.kim
   - name: rt-ac58u
     url: https://rt-ac58u.byungchan.kim
   - name: Bitwarden
