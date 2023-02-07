@@ -1,7 +1,7 @@
 url: https://omv.byungchan.kim
-status: up
-code: 200
-responseTime: 439
-lastUpdated: 2023-02-06T23:12:24.418Z
+status: down
+code: 502
+responseTime: 3796
+lastUpdated: 2023-02-07T07:46:17.241Z
 startTime: Thu Nov 11 2021 01:00:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
