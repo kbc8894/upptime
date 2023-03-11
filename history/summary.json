@@ -11,13 +11,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 712,
-    "timeDay": 740,
-    "timeWeek": 1312,
-    "timeMonth": 884,
+    "timeDay": 669,
+    "timeWeek": 1315,
+    "timeMonth": 872,
     "timeYear": 722,
     "dailyMinutesDown": {
-      "2023-01-25": 35,
-      "2022-03-11": 26
+      "2023-01-25": 35
     }
   },
   {
@@ -26,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/rt-ac58u.byungchan.kim.ico",
     "slug": "rt-ac58u",
     "status": "up",
-    "uptime": "97.61%",
+    "uptime": "97.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.88%",
+    "uptimeYear": "97.89%",
     "time": 722,
-    "timeDay": 798,
-    "timeWeek": 732,
-    "timeMonth": 850,
-    "timeYear": 744,
+    "timeDay": 821,
+    "timeWeek": 764,
+    "timeMonth": 838,
+    "timeYear": 745,
     "dailyMinutesDown": {
       "2023-02-08": 22,
       "2023-01-25": 34,
@@ -64,8 +63,7 @@
       "2022-03-23": 15,
       "2022-03-17": 774,
       "2022-03-16": 1440,
-      "2022-03-15": 851,
-      "2022-03-11": 25
+      "2022-03-15": 851
     }
   },
   {
@@ -74,16 +72,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/vault.byungchan.kim.ico",
     "slug": "bitwarden",
     "status": "up",
-    "uptime": "97.16%",
+    "uptime": "97.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.94%",
+    "uptimeYear": "99.21%",
     "time": 811,
-    "timeDay": 809,
-    "timeWeek": 771,
-    "timeMonth": 708,
-    "timeYear": 841,
+    "timeDay": 650,
+    "timeWeek": 759,
+    "timeMonth": 699,
+    "timeYear": 833,
     "dailyMinutesDown": {
       "2023-01-25": 34,
       "2022-07-04": 20,
@@ -97,8 +95,7 @@
       "2022-06-11": 490,
       "2022-04-24": 32,
       "2022-03-25": 153,
-      "2022-03-12": 555,
-      "2022-03-11": 1440
+      "2022-03-12": 555
     }
   },
   {
@@ -113,9 +110,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.85%",
     "time": 859,
-    "timeDay": 810,
-    "timeWeek": 863,
-    "timeMonth": 871,
+    "timeDay": 863,
+    "timeWeek": 845,
+    "timeMonth": 868,
     "timeYear": 880,
     "dailyMinutesDown": {
       "2023-02-08": 21,
@@ -147,8 +144,7 @@
       "2022-04-04": 60,
       "2022-03-17": 774,
       "2022-03-16": 1440,
-      "2022-03-15": 850,
-      "2022-03-11": 24
+      "2022-03-15": 850
     }
   },
   {
@@ -157,16 +153,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/omv.byungchan.kim.ico",
     "slug": "open-media-vault",
     "status": "up",
-    "uptime": "98.28%",
+    "uptime": "98.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.84%",
     "time": 661,
-    "timeDay": 605,
-    "timeWeek": 644,
-    "timeMonth": 643,
-    "timeYear": 652,
+    "timeDay": 767,
+    "timeWeek": 673,
+    "timeMonth": 636,
+    "timeYear": 653,
     "dailyMinutesDown": {
       "2023-02-08": 21,
       "2023-02-07": 39,
@@ -196,8 +192,7 @@
       "2022-04-04": 60,
       "2022-03-17": 852,
       "2022-03-16": 1440,
-      "2022-03-15": 850,
-      "2022-03-11": 24
+      "2022-03-15": 850
     }
   },
   {
@@ -210,12 +205,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.86%",
-    "time": 707,
-    "timeDay": 955,
-    "timeWeek": 902,
-    "timeMonth": 818,
-    "timeYear": 735,
+    "uptimeYear": "97.87%",
+    "time": 708,
+    "timeDay": 1102,
+    "timeWeek": 944,
+    "timeMonth": 828,
+    "timeYear": 737,
     "dailyMinutesDown": {
       "2023-02-08": 21,
       "2023-01-25": 32,
@@ -243,8 +238,7 @@
       "2022-04-04": 59,
       "2022-03-17": 775,
       "2022-03-16": 1440,
-      "2022-03-15": 849,
-      "2022-03-11": 23
+      "2022-03-15": 849
     }
   }
 ]
