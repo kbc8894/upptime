@@ -3,8 +3,6 @@ owner: kbc8894 # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 user-agent: kbc8894
 sites:
-  - name: Nginx Proxy Manager
-    url: https://npm.byungchan.kim
   - name: rt-ac58u
     url: https://rt-ac58u.byungchan.kim
   - name: Bitwarden
