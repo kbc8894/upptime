@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.49%",
-    "time": 722,
-    "timeDay": 743,
-    "timeWeek": 793,
-    "timeMonth": 718,
-    "timeYear": 742,
+    "time": 723,
+    "timeDay": 767,
+    "timeWeek": 783,
+    "timeMonth": 735,
+    "timeYear": 743,
     "dailyMinutesDown": {
       "2023-02-08": 22,
       "2023-01-25": 34,
@@ -37,8 +37,7 @@
       "2022-08-08": 645,
       "2022-08-03": 57,
       "2022-06-28": 20,
-      "2022-06-06": 379,
-      "2022-05-17": 38
+      "2022-06-06": 379
     }
   },
   {
@@ -47,15 +46,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/vault.byungchan.kim.ico",
     "slug": "bitwarden",
     "status": "up",
-    "uptime": "97.46%",
+    "uptime": "97.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.61%",
     "time": 823,
-    "timeDay": 807,
-    "timeWeek": 690,
-    "timeMonth": 640,
+    "timeDay": 546,
+    "timeWeek": 668,
+    "timeMonth": 650,
     "timeYear": 797,
     "dailyMinutesDown": {
       "2023-01-25": 34,
@@ -76,15 +75,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.byungchan.kim.ico",
     "slug": "jellyfin",
     "status": "up",
-    "uptime": "97.69%",
+    "uptime": "97.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.45%",
-    "time": 860,
-    "timeDay": 914,
-    "timeWeek": 964,
-    "timeMonth": 821,
+    "time": 861,
+    "timeDay": 796,
+    "timeWeek": 966,
+    "timeMonth": 837,
     "timeYear": 868,
     "dailyMinutesDown": {
       "2023-03-14": 17,
@@ -111,8 +110,7 @@
       "2022-08-08": 644,
       "2022-08-03": 56,
       "2022-06-28": 19,
-      "2022-06-06": 379,
-      "2022-05-17": 38
+      "2022-06-06": 379
     }
   },
   {
@@ -121,16 +119,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/omv.byungchan.kim.ico",
     "slug": "open-media-vault",
     "status": "up",
-    "uptime": "98.49%",
+    "uptime": "98.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.45%",
     "time": 664,
-    "timeDay": 689,
-    "timeWeek": 666,
-    "timeMonth": 614,
-    "timeYear": 664,
+    "timeDay": 466,
+    "timeWeek": 637,
+    "timeMonth": 622,
+    "timeYear": 663,
     "dailyMinutesDown": {
       "2023-02-08": 21,
       "2023-02-07": 39,
@@ -155,8 +153,7 @@
       "2022-08-08": 644,
       "2022-08-03": 56,
       "2022-06-28": 19,
-      "2022-06-06": 379,
-      "2022-05-17": 37
+      "2022-06-06": 379
     }
   },
   {
@@ -165,15 +162,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/portainer.byungchan.kim.ico",
     "slug": "portainer",
     "status": "up",
-    "uptime": "98.51%",
+    "uptime": "98.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.47%",
     "time": 722,
-    "timeDay": 1328,
-    "timeWeek": 984,
-    "timeMonth": 807,
+    "timeDay": 559,
+    "timeWeek": 931,
+    "timeMonth": 815,
     "timeYear": 767,
     "dailyMinutesDown": {
       "2023-02-08": 21,
@@ -197,8 +194,7 @@
       "2022-08-08": 643,
       "2022-08-03": 55,
       "2022-06-28": 18,
-      "2022-06-06": 380,
-      "2022-05-17": 37
+      "2022-06-06": 380
     }
   }
 ]
