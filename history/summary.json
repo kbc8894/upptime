@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/rt-ac58u.byungchan.kim.ico",
     "slug": "rt-ac58u",
     "status": "up",
-    "uptime": "98.12%",
+    "uptime": "98.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.99%",
+    "uptimeYear": "99.26%",
     "time": 730,
-    "timeDay": 666,
-    "timeWeek": 713,
+    "timeDay": 886,
+    "timeWeek": 740,
     "timeMonth": 675,
-    "timeYear": 725,
+    "timeYear": 726,
     "dailyMinutesDown": {
       "2023-06-29": 17,
       "2023-02-08": 22,
@@ -31,8 +31,7 @@
       "2022-10-09": 16,
       "2022-08-15": 140,
       "2022-08-14": 45,
-      "2022-08-12": 540,
-      "2022-08-11": 1440
+      "2022-08-12": 540
     }
   },
   {
@@ -47,9 +46,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 784,
-    "timeDay": 713,
-    "timeWeek": 621,
-    "timeMonth": 686,
+    "timeDay": 671,
+    "timeWeek": 629,
+    "timeMonth": 677,
     "timeYear": 683,
     "dailyMinutesDown": {
       "2023-01-25": 34
@@ -65,12 +64,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.95%",
-    "time": 876,
-    "timeDay": 786,
-    "timeWeek": 870,
-    "timeMonth": 811,
-    "timeYear": 875,
+    "uptimeYear": "99.22%",
+    "time": 875,
+    "timeDay": 675,
+    "timeWeek": 819,
+    "timeMonth": 803,
+    "timeYear": 874,
     "dailyMinutesDown": {
       "2023-06-29": 17,
       "2023-03-14": 17,
@@ -90,8 +89,7 @@
       "2022-09-21": 178,
       "2022-08-15": 140,
       "2022-08-14": 45,
-      "2022-08-12": 540,
-      "2022-08-11": 1440
+      "2022-08-12": 540
     }
   },
   {
@@ -100,15 +98,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/omv.byungchan.kim.ico",
     "slug": "open-media-vault",
     "status": "up",
-    "uptime": "98.69%",
+    "uptime": "98.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.95%",
+    "uptimeYear": "99.22%",
     "time": 666,
-    "timeDay": 1020,
-    "timeWeek": 682,
-    "timeMonth": 723,
+    "timeDay": 677,
+    "timeWeek": 680,
+    "timeMonth": 715,
     "timeYear": 682,
     "dailyMinutesDown": {
       "2023-06-29": 16,
@@ -128,8 +126,7 @@
       "2022-09-21": 177,
       "2022-08-15": 140,
       "2022-08-14": 44,
-      "2022-08-12": 540,
-      "2022-08-11": 1440
+      "2022-08-12": 540
     }
   },
   {
@@ -138,15 +135,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/portainer.byungchan.kim.ico",
     "slug": "portainer",
     "status": "up",
-    "uptime": "98.71%",
+    "uptime": "98.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.96%",
-    "time": 756,
-    "timeDay": 902,
-    "timeWeek": 818,
-    "timeMonth": 785,
+    "uptimeYear": "99.24%",
+    "time": 757,
+    "timeDay": 777,
+    "timeWeek": 821,
+    "timeMonth": 782,
     "timeYear": 792,
     "dailyMinutesDown": {
       "2023-06-29": 16,
@@ -164,8 +161,7 @@
       "2022-09-21": 177,
       "2022-08-15": 140,
       "2022-08-14": 44,
-      "2022-08-12": 540,
-      "2022-08-11": 1440
+      "2022-08-12": 540
     }
   }
 ]
