@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.26%",
+    "uptimeYear": "99.53%",
     "time": 730,
-    "timeDay": 886,
-    "timeWeek": 740,
+    "timeDay": 650,
+    "timeWeek": 731,
     "timeMonth": 675,
-    "timeYear": 726,
+    "timeYear": 725,
     "dailyMinutesDown": {
       "2023-06-29": 17,
       "2023-02-08": 22,
@@ -30,8 +30,7 @@
       "2022-10-15": 79,
       "2022-10-09": 16,
       "2022-08-15": 140,
-      "2022-08-14": 45,
-      "2022-08-12": 540
+      "2022-08-14": 45
     }
   },
   {
@@ -40,15 +39,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/vault.byungchan.kim.ico",
     "slug": "bitwarden",
     "status": "up",
-    "uptime": "97.77%",
+    "uptime": "97.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 784,
-    "timeDay": 671,
-    "timeWeek": 629,
-    "timeMonth": 677,
+    "time": 785,
+    "timeDay": 720,
+    "timeWeek": 647,
+    "timeMonth": 673,
     "timeYear": 683,
     "dailyMinutesDown": {
       "2023-01-25": 34
@@ -64,10 +63,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.22%",
+    "uptimeYear": "99.50%",
     "time": 875,
-    "timeDay": 675,
-    "timeWeek": 819,
+    "timeDay": 928,
+    "timeWeek": 803,
     "timeMonth": 803,
     "timeYear": 874,
     "dailyMinutesDown": {
@@ -88,8 +87,7 @@
       "2022-10-09": 15,
       "2022-09-21": 178,
       "2022-08-15": 140,
-      "2022-08-14": 45,
-      "2022-08-12": 540
+      "2022-08-14": 45
     }
   },
   {
@@ -102,10 +100,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.22%",
+    "uptimeYear": "99.50%",
     "time": 666,
-    "timeDay": 677,
-    "timeWeek": 680,
+    "timeDay": 809,
+    "timeWeek": 679,
     "timeMonth": 715,
     "timeYear": 682,
     "dailyMinutesDown": {
@@ -125,8 +123,7 @@
       "2022-10-09": 15,
       "2022-09-21": 177,
       "2022-08-15": 140,
-      "2022-08-14": 44,
-      "2022-08-12": 540
+      "2022-08-14": 44
     }
   },
   {
@@ -139,11 +136,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.24%",
+    "uptimeYear": "99.51%",
     "time": 757,
-    "timeDay": 777,
-    "timeWeek": 821,
-    "timeMonth": 782,
+    "timeDay": 996,
+    "timeWeek": 825,
+    "timeMonth": 774,
     "timeYear": 792,
     "dailyMinutesDown": {
       "2023-06-29": 16,
@@ -160,8 +157,7 @@
       "2022-10-15": 54,
       "2022-09-21": 177,
       "2022-08-15": 140,
-      "2022-08-14": 44,
-      "2022-08-12": 540
+      "2022-08-14": 44
     }
   }
 ]
