@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 745,
-    "timeDay": 825,
-    "timeWeek": 644,
-    "timeMonth": 709,
+    "timeDay": 794,
+    "timeWeek": 674,
+    "timeMonth": 715,
     "timeYear": 725,
     "dailyMinutesDown": {
       "2023-06-29": 17,
@@ -22,8 +22,7 @@
       "2022-12-30": 205,
       "2022-12-29": 26,
       "2022-12-11": 63,
-      "2022-11-24": 29,
-      "2022-10-20": 189
+      "2022-11-24": 29
     }
   },
   {
@@ -38,9 +37,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 690,
-    "timeDay": 809,
-    "timeWeek": 683,
-    "timeMonth": 709,
+    "timeDay": 840,
+    "timeWeek": 715,
+    "timeMonth": 713,
     "timeYear": 685,
     "dailyMinutesDown": {
       "2023-08-21": 66,
@@ -60,9 +59,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 871,
-    "timeDay": 971,
-    "timeWeek": 806,
-    "timeMonth": 812,
+    "timeDay": 729,
+    "timeWeek": 830,
+    "timeMonth": 815,
     "timeYear": 845,
     "dailyMinutesDown": {
       "2023-06-29": 17,
@@ -73,8 +72,7 @@
       "2022-12-29": 26,
       "2022-12-11": 62,
       "2022-12-01": 20,
-      "2022-11-24": 28,
-      "2022-10-20": 189
+      "2022-11-24": 28
     }
   },
   {
@@ -83,18 +81,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/omv.byungchan.kim.ico",
     "slug": "open-media-vault",
     "status": "down",
-    "uptime": "95.68%",
+    "uptime": "95.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "27.77%",
-    "uptimeYear": "93.79%",
+    "uptimeMonth": "24.48%",
+    "uptimeYear": "93.51%",
     "time": 678,
-    "timeDay": 591,
-    "timeWeek": 661,
-    "timeMonth": 669,
+    "timeDay": 707,
+    "timeWeek": 643,
+    "timeMonth": 674,
     "timeYear": 682,
     "dailyMinutesDown": {
-      "2023-10-19": 55,
+      "2023-10-20": 55,
+      "2023-10-19": 1440,
       "2023-10-18": 1440,
       "2023-10-17": 1440,
       "2023-10-16": 1440,
@@ -125,8 +124,7 @@
       "2022-12-30": 205,
       "2022-12-29": 38,
       "2022-12-11": 62,
-      "2022-11-24": 28,
-      "2022-10-20": 188
+      "2022-11-24": 28
     }
   },
   {
@@ -141,9 +139,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 799,
-    "timeDay": 935,
-    "timeWeek": 742,
-    "timeMonth": 773,
+    "timeDay": 807,
+    "timeWeek": 778,
+    "timeMonth": 776,
     "timeYear": 808,
     "dailyMinutesDown": {
       "2023-06-29": 16,
@@ -152,8 +150,7 @@
       "2022-12-30": 205,
       "2022-12-29": 25,
       "2022-12-11": 61,
-      "2022-11-24": 27,
-      "2022-10-20": 188
+      "2022-11-24": 27
     }
   }
 ]
