@@ -9,8 +9,6 @@ sites:
     url: https://vault.byungchan.kim
   - name: Jellyfin
     url: https://jellyfin.byungchan.kim
-  - name: OpenMediaVault
-    url: https://omv.byungchan.kim
   - name: Portainer
     url: https://portainer.byungchan.kim
 
