@@ -1,7 +1,7 @@
 url: https://portainer.byungchan.kim
-status: up
-code: 200
-responseTime: 600
-lastUpdated: 2024-02-23T15:20:36.082Z
+status: down
+code: 502
+responseTime: 1683
+lastUpdated: 2024-02-23T16:30:06.568Z
 startTime: 2021-11-11T01:00:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
