@@ -1,7 +1,7 @@
 url: https://jellyfin.byungchan.kim
-status: up
-code: 200
-responseTime: 804
-lastUpdated: 2024-04-04T23:12:27.771Z
+status: down
+code: 502
+responseTime: 2356
+lastUpdated: 2024-04-05T10:52:46.709Z
 startTime: 2021-08-25T11:42:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
