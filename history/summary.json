@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rt-ac58u.byungchan.kim.ico",
     "slug": "rt-ac58u",
     "status": "down",
-    "uptime": "71.42%",
+    "uptime": "71.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "5.39%",
+    "uptimeYear": "5.12%",
     "time": 717,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 798,
+    "timeYear": 805,
     "dailyMinutesDown": {
-      "2025-02-09": 77,
+      "2025-02-10": 74,
+      "2025-02-09": 1440,
       "2025-02-08": 1440,
       "2025-02-07": 1440,
       "2025-02-06": 1440,
@@ -378,9 +379,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 692,
-    "timeDay": 935,
-    "timeWeek": 791,
-    "timeMonth": 710,
+    "timeDay": 709,
+    "timeWeek": 786,
+    "timeMonth": 715,
     "timeYear": 668,
     "dailyMinutesDown": {}
   },
@@ -396,9 +397,9 @@
     "uptimeMonth": "98.98%",
     "uptimeYear": "93.37%",
     "time": 996,
-    "timeDay": 841,
-    "timeWeek": 854,
-    "timeMonth": 808,
+    "timeDay": 786,
+    "timeWeek": 880,
+    "timeMonth": 803,
     "timeYear": 1048,
     "dailyMinutesDown": {
       "2025-02-07": 37,
@@ -448,8 +449,7 @@
       "2024-02-19": 1022,
       "2024-02-18": 1440,
       "2024-02-17": 1241,
-      "2024-02-12": 417,
-      "2024-02-11": 1440
+      "2024-02-12": 417
     }
   },
   {
@@ -458,16 +458,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/portainer.byungchan.kim.ico",
     "slug": "portainer",
     "status": "up",
-    "uptime": "97.01%",
+    "uptime": "97.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.12%",
     "uptimeMonth": "98.98%",
     "uptimeYear": "93.37%",
     "time": 937,
-    "timeDay": 763,
-    "timeWeek": 807,
-    "timeMonth": 822,
-    "timeYear": 968,
+    "timeDay": 976,
+    "timeWeek": 849,
+    "timeMonth": 829,
+    "timeYear": 969,
     "dailyMinutesDown": {
       "2025-02-07": 37,
       "2025-02-04": 254,
@@ -516,8 +516,7 @@
       "2024-02-19": 1021,
       "2024-02-18": 1440,
       "2024-02-17": 1241,
-      "2024-02-12": 417,
-      "2024-02-11": 1440
+      "2024-02-12": 417
     }
   }
 ]
