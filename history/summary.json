@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rt-ac58u.byungchan.kim.ico",
     "slug": "rt-ac58u",
     "status": "down",
-    "uptime": "70.97%",
+    "uptime": "70.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "3.20%",
+    "uptimeYear": "2.93%",
     "time": 719,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 793,
+    "timeYear": 805,
     "dailyMinutesDown": {
-      "2025-02-17": 76,
+      "2025-02-18": 73,
+      "2025-02-17": 1440,
       "2025-02-16": 1440,
       "2025-02-15": 1440,
       "2025-02-14": 1440,
@@ -386,9 +387,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 691,
-    "timeDay": 557,
-    "timeWeek": 684,
-    "timeMonth": 719,
+    "timeDay": 735,
+    "timeWeek": 703,
+    "timeMonth": 718,
     "timeYear": 668,
     "dailyMinutesDown": {}
   },
@@ -402,12 +403,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.03%",
-    "uptimeYear": "93.88%",
+    "uptimeYear": "94.13%",
     "time": 998,
-    "timeDay": 991,
-    "timeWeek": 873,
-    "timeMonth": 825,
-    "timeYear": 1033,
+    "timeDay": 1006,
+    "timeWeek": 897,
+    "timeMonth": 829,
+    "timeYear": 1026,
     "dailyMinutesDown": {
       "2025-02-07": 37,
       "2025-02-04": 254,
@@ -452,8 +453,7 @@
       "2024-02-25": 900,
       "2024-02-23": 1204,
       "2024-02-22": 875,
-      "2024-02-20": 881,
-      "2024-02-19": 1022
+      "2024-02-20": 881
     }
   },
   {
@@ -462,16 +462,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/portainer.byungchan.kim.ico",
     "slug": "portainer",
     "status": "up",
-    "uptime": "97.03%",
+    "uptime": "97.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.04%",
-    "uptimeYear": "93.89%",
+    "uptimeYear": "94.14%",
     "time": 938,
-    "timeDay": 1072,
-    "timeWeek": 859,
-    "timeMonth": 834,
-    "timeYear": 956,
+    "timeDay": 777,
+    "timeWeek": 878,
+    "timeMonth": 831,
+    "timeYear": 943,
     "dailyMinutesDown": {
       "2025-02-07": 37,
       "2025-02-04": 254,
@@ -516,8 +516,7 @@
       "2024-02-25": 900,
       "2024-02-23": 1202,
       "2024-02-22": 875,
-      "2024-02-20": 881,
-      "2024-02-19": 1021
+      "2024-02-20": 881
     }
   }
 ]
