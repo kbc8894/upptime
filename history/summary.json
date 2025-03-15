@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rt-ac58u.byungchan.kim.ico",
     "slug": "rt-ac58u",
     "status": "down",
-    "uptime": "69.60%",
+    "uptime": "69.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 718,
+    "time": 720,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-14": 76,
+      "2025-03-15": 76,
+      "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
@@ -379,8 +380,7 @@
       "2024-03-19": 1440,
       "2024-03-18": 1440,
       "2024-03-17": 1440,
-      "2024-03-16": 1440,
-      "2024-03-15": 1440
+      "2024-03-16": 1440
     }
   },
   {
@@ -395,10 +395,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 696,
-    "timeDay": 694,
-    "timeWeek": 743,
-    "timeMonth": 759,
-    "timeYear": 675,
+    "timeDay": 725,
+    "timeWeek": 733,
+    "timeMonth": 760,
+    "timeYear": 676,
     "dailyMinutesDown": {}
   },
   {
@@ -407,16 +407,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.byungchan.kim.ico",
     "slug": "jellyfin",
     "status": "up",
-    "uptime": "96.71%",
+    "uptime": "96.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.19%",
-    "uptimeYear": "95.74%",
+    "uptimeYear": "95.91%",
     "time": 1002,
-    "timeDay": 913,
-    "timeWeek": 914,
-    "timeMonth": 910,
-    "timeYear": 938,
+    "timeDay": 987,
+    "timeWeek": 939,
+    "timeMonth": 919,
+    "timeYear": 931,
     "dailyMinutesDown": {
       "2025-03-06": 573,
       "2025-03-05": 657,
@@ -452,8 +452,7 @@
       "2024-03-22": 36,
       "2024-03-21": 438,
       "2024-03-20": 1440,
-      "2024-03-19": 18,
-      "2024-03-15": 326
+      "2024-03-19": 18
     }
   },
   {
@@ -462,16 +461,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/portainer.byungchan.kim.ico",
     "slug": "portainer",
     "status": "up",
-    "uptime": "97.02%",
+    "uptime": "97.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.19%",
-    "uptimeYear": "95.74%",
-    "time": 942,
-    "timeDay": 774,
-    "timeWeek": 887,
-    "timeMonth": 869,
-    "timeYear": 889,
+    "uptimeYear": "95.91%",
+    "time": 943,
+    "timeDay": 985,
+    "timeWeek": 929,
+    "timeMonth": 878,
+    "timeYear": 877,
     "dailyMinutesDown": {
       "2025-03-06": 573,
       "2025-03-05": 656,
@@ -507,8 +506,7 @@
       "2024-03-22": 35,
       "2024-03-21": 438,
       "2024-03-20": 1440,
-      "2024-03-19": 18,
-      "2024-03-15": 326
+      "2024-03-19": 18
     }
   }
 ]
