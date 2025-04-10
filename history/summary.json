@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-10": 79,
+      "2025-04-10": 204,
       "2025-04-09": 1440,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
@@ -388,18 +388,20 @@
     "url": "https://vault.byungchan.kim",
     "icon": "https://icons.duckduckgo.com/ip3/vault.byungchan.kim.ico",
     "slug": "bitwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "98.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 695,
+    "time": 694,
     "timeDay": 552,
     "timeWeek": 716,
     "timeMonth": 703,
     "timeYear": 681,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-10": 0
+    }
   },
   {
     "name": "Jellyfin",
