@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rt-ac58u.byungchan.kim.ico",
     "slug": "rt-ac58u",
     "status": "down",
-    "uptime": "65.32%",
+    "uptime": "65.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 759,
+    "time": 761,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-07": 85,
+      "2025-06-08": 102,
+      "2025-06-07": 1440,
       "2025-06-06": 1440,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
@@ -379,8 +380,7 @@
       "2024-06-12": 1440,
       "2024-06-11": 1440,
       "2024-06-10": 1440,
-      "2024-06-09": 1440,
-      "2024-06-08": 1440
+      "2024-06-09": 1440
     }
   },
   {
@@ -394,11 +394,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 694,
-    "timeDay": 767,
-    "timeWeek": 730,
+    "time": 695,
+    "timeDay": 958,
+    "timeWeek": 761,
     "timeMonth": 880,
-    "timeYear": 713,
+    "timeYear": 714,
     "dailyMinutesDown": {
       "2025-04-10": 25
     }
@@ -414,11 +414,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.97%",
-    "time": 921,
-    "timeDay": 754,
-    "timeWeek": 938,
-    "timeMonth": 941,
-    "timeYear": 871,
+    "time": 920,
+    "timeDay": 966,
+    "timeWeek": 919,
+    "timeMonth": 936,
+    "timeYear": 872,
     "dailyMinutesDown": {
       "2025-05-04": 17,
       "2025-03-06": 573,
@@ -443,8 +443,7 @@
       "2024-08-24": 65,
       "2024-07-05": 514,
       "2024-06-25": 73,
-      "2024-06-09": 111,
-      "2024-06-08": 440
+      "2024-06-09": 111
     }
   },
   {
@@ -458,11 +457,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.97%",
-    "time": 875,
-    "timeDay": 705,
-    "timeWeek": 932,
-    "timeMonth": 907,
-    "timeYear": 828,
+    "time": 870,
+    "timeDay": 765,
+    "timeWeek": 894,
+    "timeMonth": 896,
+    "timeYear": 827,
     "dailyMinutesDown": {
       "2025-05-04": 16,
       "2025-03-06": 573,
@@ -487,8 +486,7 @@
       "2024-08-24": 65,
       "2024-07-05": 514,
       "2024-06-25": 72,
-      "2024-06-09": 111,
-      "2024-06-08": 439
+      "2024-06-09": 111
     }
   }
 ]
