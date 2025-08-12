@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rt-ac58u.byungchan.kim.ico",
     "slug": "rt-ac58u",
     "status": "down",
-    "uptime": "62.37%",
+    "uptime": "62.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-11": 671,
+      "2025-08-12": 86,
+      "2025-08-11": 1440,
       "2025-08-10": 1440,
       "2025-08-09": 1440,
       "2025-08-08": 1440,
@@ -379,8 +380,7 @@
       "2024-08-16": 1440,
       "2024-08-15": 1440,
       "2024-08-14": 1440,
-      "2024-08-13": 1440,
-      "2024-08-12": 1440
+      "2024-08-13": 1440
     }
   },
   {
@@ -395,10 +395,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 702,
-    "timeDay": 837,
-    "timeWeek": 861,
-    "timeMonth": 742,
-    "timeYear": 713,
+    "timeDay": 592,
+    "timeWeek": 867,
+    "timeMonth": 736,
+    "timeYear": 714,
     "dailyMinutesDown": {
       "2025-04-10": 25
     }
@@ -414,11 +414,11 @@
     "uptimeWeek": "97.39%",
     "uptimeMonth": "98.64%",
     "uptimeYear": "96.94%",
-    "time": 871,
-    "timeDay": 1813,
-    "timeWeek": 1135,
-    "timeMonth": 921,
-    "timeYear": 879,
+    "time": 872,
+    "timeDay": 1898,
+    "timeWeek": 1175,
+    "timeMonth": 924,
+    "timeYear": 881,
     "dailyMinutesDown": {
       "2025-08-11": 20,
       "2025-08-09": 243,
@@ -453,16 +453,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/portainer.byungchan.kim.ico",
     "slug": "portainer",
     "status": "up",
-    "uptime": "97.28%",
+    "uptime": "97.29%",
     "uptimeDay": "98.62%",
     "uptimeWeek": "97.40%",
     "uptimeMonth": "98.64%",
     "uptimeYear": "96.94%",
-    "time": 828,
-    "timeDay": 891,
-    "timeWeek": 907,
-    "timeMonth": 866,
-    "timeYear": 835,
+    "time": 829,
+    "timeDay": 863,
+    "timeWeek": 941,
+    "timeMonth": 873,
+    "timeYear": 836,
     "dailyMinutesDown": {
       "2025-08-11": 20,
       "2025-08-09": 242,
