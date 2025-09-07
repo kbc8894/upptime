@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rt-ac58u.byungchan.kim.ico",
     "slug": "rt-ac58u",
     "status": "down",
-    "uptime": "61.28%",
+    "uptime": "61.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-06": 76,
+      "2025-09-07": 84,
+      "2025-09-06": 1440,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
@@ -379,8 +380,7 @@
       "2024-09-11": 1440,
       "2024-09-10": 1440,
       "2024-09-09": 1440,
-      "2024-09-08": 1440,
-      "2024-09-07": 1440
+      "2024-09-08": 1440
     }
   },
   {
@@ -395,9 +395,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 708,
-    "timeDay": 639,
-    "timeWeek": 661,
-    "timeMonth": 774,
+    "timeDay": 566,
+    "timeWeek": 654,
+    "timeMonth": 772,
     "timeYear": 721,
     "dailyMinutesDown": {
       "2025-04-10": 25
@@ -413,11 +413,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.62%",
-    "uptimeYear": "98.55%",
+    "uptimeYear": "98.83%",
     "time": 875,
-    "timeDay": 897,
-    "timeWeek": 899,
-    "timeMonth": 959,
+    "timeDay": 834,
+    "timeWeek": 904,
+    "timeMonth": 956,
     "timeYear": 877,
     "dailyMinutesDown": {
       "2025-08-26": 343,
@@ -435,8 +435,7 @@
       "2024-10-10": 858,
       "2024-10-03": 22,
       "2024-09-21": 21,
-      "2024-09-08": 561,
-      "2024-09-07": 1440
+      "2024-09-08": 561
     }
   },
   {
@@ -449,11 +448,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.62%",
-    "uptimeYear": "98.55%",
-    "time": 839,
-    "timeDay": 796,
-    "timeWeek": 799,
-    "timeMonth": 952,
+    "uptimeYear": "98.83%",
+    "time": 840,
+    "timeDay": 823,
+    "timeWeek": 808,
+    "timeMonth": 947,
     "timeYear": 849,
     "dailyMinutesDown": {
       "2025-08-26": 343,
@@ -471,8 +470,7 @@
       "2024-10-10": 858,
       "2024-10-03": 21,
       "2024-09-21": 21,
-      "2024-09-08": 561,
-      "2024-09-07": 1440
+      "2024-09-08": 561
     }
   }
 ]
