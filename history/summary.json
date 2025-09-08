@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rt-ac58u.byungchan.kim.ico",
     "slug": "rt-ac58u",
     "status": "down",
-    "uptime": "61.23%",
+    "uptime": "61.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-07": 621,
+      "2025-09-08": 82,
+      "2025-09-07": 1440,
       "2025-09-06": 1440,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
@@ -379,8 +380,7 @@
       "2024-09-12": 1440,
       "2024-09-11": 1440,
       "2024-09-10": 1440,
-      "2024-09-09": 1440,
-      "2024-09-08": 1440
+      "2024-09-09": 1440
     }
   },
   {
@@ -395,9 +395,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 708,
-    "timeDay": 566,
-    "timeWeek": 654,
-    "timeMonth": 772,
+    "timeDay": 517,
+    "timeWeek": 616,
+    "timeMonth": 758,
     "timeYear": 721,
     "dailyMinutesDown": {
       "2025-04-10": 25
@@ -413,12 +413,12 @@
     "uptimeDay": "98.35%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "98.56%",
-    "uptimeYear": "98.93%",
-    "time": 912,
-    "timeDay": 783,
-    "timeWeek": 882,
-    "timeMonth": 950,
-    "timeYear": 877,
+    "uptimeYear": "99.10%",
+    "time": 911,
+    "timeDay": 687,
+    "timeWeek": 873,
+    "timeMonth": 941,
+    "timeYear": 876,
     "dailyMinutesDown": {
       "2025-09-07": 24,
       "2025-08-26": 343,
@@ -435,8 +435,7 @@
       "2025-01-16": 25,
       "2024-10-10": 858,
       "2024-10-03": 22,
-      "2024-09-21": 21,
-      "2024-09-08": 561
+      "2024-09-21": 21
     }
   },
   {
@@ -449,11 +448,11 @@
     "uptimeDay": "98.39%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "98.57%",
-    "uptimeYear": "98.93%",
+    "uptimeYear": "99.10%",
     "time": 867,
-    "timeDay": 861,
-    "timeWeek": 819,
-    "timeMonth": 945,
+    "timeDay": 770,
+    "timeWeek": 795,
+    "timeMonth": 933,
     "timeYear": 849,
     "dailyMinutesDown": {
       "2025-09-07": 23,
@@ -471,8 +470,7 @@
       "2025-01-16": 24,
       "2024-10-10": 858,
       "2024-10-03": 21,
-      "2024-09-21": 21,
-      "2024-09-08": 561
+      "2024-09-21": 21
     }
   }
 ]
