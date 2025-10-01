@@ -5,10 +5,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/rt-ac58u.byungchan.kim.ico",
     "slug": "rt-ac58u",
     "status": "down",
-    "uptime": "60.30%",
+    "uptime": "60.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-30": 79,
+      "2025-10-01": 87,
+      "2025-09-30": 1440,
       "2025-09-29": 1440,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
@@ -379,8 +380,7 @@
       "2024-10-05": 1440,
       "2024-10-04": 1440,
       "2024-10-03": 1440,
-      "2024-10-02": 1440,
-      "2024-10-01": 1440
+      "2024-10-02": 1440
     }
   },
   {
@@ -395,10 +395,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 711,
-    "timeDay": 802,
-    "timeWeek": 711,
-    "timeMonth": 687,
-    "timeYear": 725,
+    "timeDay": 919,
+    "timeWeek": 771,
+    "timeMonth": 694,
+    "timeYear": 726,
     "dailyMinutesDown": {
       "2025-04-10": 25
     }
@@ -409,15 +409,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.byungchan.kim.ico",
     "slug": "jellyfin",
     "status": "up",
-    "uptime": "97.07%",
+    "uptime": "97.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.18%",
-    "time": 887,
-    "timeDay": 1179,
-    "timeWeek": 891,
-    "timeMonth": 816,
+    "time": 881,
+    "timeDay": 920,
+    "timeWeek": 931,
+    "timeMonth": 823,
     "timeYear": 866,
     "dailyMinutesDown": {
       "2025-09-10": 41,
@@ -450,10 +450,10 @@
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.19%",
     "time": 845,
-    "timeDay": 891,
-    "timeWeek": 858,
-    "timeMonth": 806,
-    "timeYear": 844,
+    "timeDay": 1111,
+    "timeWeek": 895,
+    "timeMonth": 816,
+    "timeYear": 845,
     "dailyMinutesDown": {
       "2025-09-10": 41,
       "2025-09-07": 23,
