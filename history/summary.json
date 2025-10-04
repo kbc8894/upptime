@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rt-ac58u.byungchan.kim.ico",
     "slug": "rt-ac58u",
     "status": "down",
-    "uptime": "60.18%",
+    "uptime": "60.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-03": 77,
+      "2025-10-04": 74,
+      "2025-10-03": 1440,
       "2025-10-02": 1440,
       "2025-10-01": 1440,
       "2025-09-30": 1440,
@@ -379,8 +380,7 @@
       "2024-10-08": 1440,
       "2024-10-07": 1440,
       "2024-10-06": 1440,
-      "2024-10-05": 1440,
-      "2024-10-04": 1440
+      "2024-10-05": 1440
     }
   },
   {
@@ -395,10 +395,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 712,
-    "timeDay": 490,
-    "timeWeek": 729,
-    "timeMonth": 691,
-    "timeYear": 726,
+    "timeDay": 684,
+    "timeWeek": 738,
+    "timeMonth": 694,
+    "timeYear": 725,
     "dailyMinutesDown": {
       "2025-04-10": 25
     }
@@ -413,11 +413,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "99.18%",
-    "time": 882,
-    "timeDay": 935,
-    "timeWeek": 951,
-    "timeMonth": 814,
+    "uptimeYear": "99.19%",
+    "time": 867,
+    "timeDay": 816,
+    "timeWeek": 899,
+    "timeMonth": 806,
     "timeYear": 867,
     "dailyMinutesDown": {
       "2025-09-10": 41,
@@ -443,16 +443,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/portainer.byungchan.kim.ico",
     "slug": "portainer",
     "status": "up",
-    "uptime": "97.36%",
+    "uptime": "97.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.19%",
-    "time": 835,
-    "timeDay": 621,
-    "timeWeek": 888,
-    "timeMonth": 807,
-    "timeYear": 844,
+    "time": 840,
+    "timeDay": 1241,
+    "timeWeek": 872,
+    "timeMonth": 821,
+    "timeYear": 846,
     "dailyMinutesDown": {
       "2025-09-10": 41,
       "2025-09-07": 23,
