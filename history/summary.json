@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rt-ac58u.byungchan.kim.ico",
     "slug": "rt-ac58u",
     "status": "down",
-    "uptime": "55.93%",
+    "uptime": "55.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-25": 111,
+      "2026-01-26": 111,
+      "2026-01-25": 1440,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
@@ -379,8 +380,7 @@
       "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
-      "2025-01-27": 1440,
-      "2025-01-26": 1440
+      "2025-01-27": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/vault.byungchan.kim.ico",
     "slug": "bitwarden",
     "status": "up",
-    "uptime": "99.00%",
+    "uptime": "99.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 723,
-    "timeDay": 886,
-    "timeWeek": 813,
-    "timeMonth": 773,
-    "timeYear": 743,
+    "timeDay": 816,
+    "timeWeek": 827,
+    "timeMonth": 778,
+    "timeYear": 744,
     "dailyMinutesDown": {
       "2025-04-10": 25
     }
@@ -409,15 +409,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.byungchan.kim.ico",
     "slug": "jellyfin",
     "status": "up",
-    "uptime": "97.27%",
+    "uptime": "97.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.30%",
     "time": 873,
-    "timeDay": 789,
-    "timeWeek": 939,
-    "timeMonth": 945,
+    "timeDay": 835,
+    "timeWeek": 877,
+    "timeMonth": 947,
     "timeYear": 890,
     "dailyMinutesDown": {
       "2025-12-26": 15,
@@ -449,9 +449,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.31%",
     "time": 854,
-    "timeDay": 895,
-    "timeWeek": 868,
-    "timeMonth": 857,
+    "timeDay": 899,
+    "timeWeek": 876,
+    "timeMonth": 866,
     "timeYear": 869,
     "dailyMinutesDown": {
       "2025-12-24": 266,
