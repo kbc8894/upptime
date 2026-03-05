@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rt-ac58u.byungchan.kim.ico",
     "slug": "rt-ac58u",
     "status": "down",
-    "uptime": "54.64%",
+    "uptime": "54.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-04": 117,
+      "2026-03-05": 120,
+      "2026-03-04": 1440,
       "2026-03-03": 1440,
       "2026-03-02": 1440,
       "2026-03-01": 1440,
@@ -379,8 +380,7 @@
       "2025-03-09": 1440,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
-      "2025-03-06": 1440,
-      "2025-03-05": 1440
+      "2025-03-06": 1440
     }
   },
   {
@@ -394,10 +394,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 730,
-    "timeDay": 683,
-    "timeWeek": 779,
-    "timeMonth": 774,
+    "time": 731,
+    "timeDay": 995,
+    "timeWeek": 805,
+    "timeMonth": 784,
     "timeYear": 745,
     "dailyMinutesDown": {
       "2025-04-10": 25
@@ -410,15 +410,15 @@
     "slug": "jellyfin",
     "status": "up",
     "uptime": "96.84%",
-    "uptimeDay": "59.18%",
-    "uptimeWeek": "8.45%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "22.77%",
     "uptimeMonth": "73.02%",
     "uptimeYear": "97.14%",
     "time": 876,
-    "timeDay": 759,
-    "timeWeek": 759,
-    "timeMonth": 865,
-    "timeYear": 890,
+    "timeDay": 950,
+    "timeWeek": 823,
+    "timeMonth": 867,
+    "timeYear": 891,
     "dailyMinutesDown": {
       "2026-03-03": 705,
       "2026-03-02": 1440,
@@ -439,8 +439,7 @@
       "2025-07-26": 333,
       "2025-07-07": 709,
       "2025-05-04": 17,
-      "2025-03-06": 573,
-      "2025-03-05": 657
+      "2025-03-06": 573
     }
   },
   {
@@ -450,15 +449,15 @@
     "slug": "portainer",
     "status": "up",
     "uptime": "97.09%",
-    "uptimeDay": "59.17%",
-    "uptimeWeek": "8.45%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "22.77%",
     "uptimeMonth": "73.03%",
     "uptimeYear": "97.14%",
     "time": 859,
-    "timeDay": 1133,
-    "timeWeek": 1133,
-    "timeMonth": 828,
-    "timeYear": 872,
+    "timeDay": 813,
+    "timeWeek": 1026,
+    "timeMonth": 833,
+    "timeYear": 871,
     "dailyMinutesDown": {
       "2026-03-03": 706,
       "2026-03-02": 1440,
@@ -478,8 +477,7 @@
       "2025-07-26": 333,
       "2025-07-07": 709,
       "2025-05-04": 16,
-      "2025-03-06": 573,
-      "2025-03-05": 656
+      "2025-03-06": 573
     }
   }
 ]
