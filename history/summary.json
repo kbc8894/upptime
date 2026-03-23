@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rt-ac58u.byungchan.kim.ico",
     "slug": "rt-ac58u",
     "status": "down",
-    "uptime": "54.05%",
+    "uptime": "54.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-22": 128,
+      "2026-03-23": 128,
+      "2026-03-22": 1440,
       "2026-03-21": 1440,
       "2026-03-20": 1440,
       "2026-03-19": 1440,
@@ -379,8 +380,7 @@
       "2025-03-27": 1440,
       "2025-03-26": 1440,
       "2025-03-25": 1440,
-      "2025-03-24": 1440,
-      "2025-03-23": 1440
+      "2025-03-24": 1440
     }
   },
   {
@@ -394,10 +394,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 735,
-    "timeDay": 894,
-    "timeWeek": 757,
-    "timeMonth": 807,
+    "time": 736,
+    "timeDay": 1036,
+    "timeWeek": 813,
+    "timeMonth": 812,
     "timeYear": 748,
     "dailyMinutesDown": {
       "2025-04-10": 25
@@ -409,15 +409,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.byungchan.kim.ico",
     "slug": "jellyfin",
     "status": "up",
-    "uptime": "96.87%",
+    "uptime": "96.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "73.02%",
     "uptimeYear": "97.37%",
     "time": 879,
-    "timeDay": 820,
-    "timeWeek": 817,
-    "timeMonth": 880,
+    "timeDay": 737,
+    "timeWeek": 820,
+    "timeMonth": 866,
     "timeYear": 887,
     "dailyMinutesDown": {
       "2026-03-03": 705,
@@ -453,9 +453,9 @@
     "uptimeMonth": "73.03%",
     "uptimeYear": "97.37%",
     "time": 861,
-    "timeDay": 978,
-    "timeWeek": 814,
-    "timeMonth": 868,
+    "timeDay": 758,
+    "timeWeek": 820,
+    "timeMonth": 858,
     "timeYear": 868,
     "dailyMinutesDown": {
       "2026-03-03": 706,
