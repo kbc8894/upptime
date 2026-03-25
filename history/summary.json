@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rt-ac58u.byungchan.kim.ico",
     "slug": "rt-ac58u",
     "status": "down",
-    "uptime": "53.99%",
+    "uptime": "53.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-24": 121,
+      "2026-03-25": 126,
+      "2026-03-24": 1440,
       "2026-03-23": 1440,
       "2026-03-22": 1440,
       "2026-03-21": 1440,
@@ -379,8 +380,7 @@
       "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
-      "2025-03-26": 1440,
-      "2025-03-25": 1440
+      "2025-03-26": 1440
     }
   },
   {
@@ -394,11 +394,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 736,
-    "timeDay": 647,
-    "timeWeek": 822,
-    "timeMonth": 801,
-    "timeYear": 747,
+    "time": 737,
+    "timeDay": 837,
+    "timeWeek": 847,
+    "timeMonth": 803,
+    "timeYear": 748,
     "dailyMinutesDown": {
       "2025-04-10": 25
     }
@@ -412,12 +412,12 @@
     "uptime": "96.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "75.65%",
+    "uptimeMonth": "78.95%",
     "uptimeYear": "97.37%",
-    "time": 879,
-    "timeDay": 955,
-    "timeWeek": 851,
-    "timeMonth": 870,
+    "time": 878,
+    "timeDay": 560,
+    "timeWeek": 806,
+    "timeMonth": 857,
     "timeYear": 887,
     "dailyMinutesDown": {
       "2026-03-03": 705,
@@ -450,13 +450,13 @@
     "uptime": "97.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "75.65%",
+    "uptimeMonth": "78.95%",
     "uptimeYear": "97.37%",
     "time": 862,
-    "timeDay": 1197,
-    "timeWeek": 890,
-    "timeMonth": 873,
-    "timeYear": 868,
+    "timeDay": 564,
+    "timeWeek": 851,
+    "timeMonth": 860,
+    "timeYear": 867,
     "dailyMinutesDown": {
       "2026-03-03": 706,
       "2026-03-02": 1440,
