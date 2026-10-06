@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rt-ac58u.byungchan.kim.ico",
     "slug": "rt-ac58u",
     "status": "down",
-    "uptime": "48.35%",
+    "uptime": "48.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-05": 250,
+      "2026-10-06": 189,
+      "2026-10-05": 1440,
       "2026-10-04": 1440,
       "2026-10-03": 1440,
       "2026-10-02": 1440,
@@ -379,8 +380,7 @@
       "2025-10-10": 1440,
       "2025-10-09": 1440,
       "2025-10-08": 1440,
-      "2025-10-07": 1440,
-      "2025-10-06": 1440
+      "2025-10-07": 1440
     }
   },
   {
@@ -395,9 +395,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 766,
-    "timeDay": 562,
-    "timeWeek": 806,
-    "timeMonth": 804,
+    "timeDay": 885,
+    "timeWeek": 801,
+    "timeMonth": 816,
     "timeYear": 779,
     "dailyMinutesDown": {}
   },
@@ -406,17 +406,17 @@
     "url": "https://jellyfin.byungchan.kim",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.byungchan.kim.ico",
     "slug": "jellyfin",
-    "status": "up",
+    "status": "down",
     "uptime": "97.19%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.62%",
-    "time": 966,
-    "timeDay": 884,
-    "timeWeek": 1142,
-    "timeMonth": 1193,
-    "timeYear": 998,
+    "time": 973,
+    "timeDay": 2468,
+    "timeWeek": 1423,
+    "timeMonth": 1281,
+    "timeYear": 1006,
     "dailyMinutesDown": {
       "2025-12-24": 267,
       "2025-12-26": 15,
@@ -429,7 +429,8 @@
       "2026-02-25": 1440,
       "2026-02-24": 1440,
       "2026-02-23": 1031,
-      "2026-07-21": 423
+      "2026-07-21": 423,
+      "2026-10-06": 1
     }
   },
   {
@@ -437,17 +438,17 @@
     "url": "https://portainer.byungchan.kim",
     "icon": "https://icons.duckduckgo.com/ip3/portainer.byungchan.kim.ico",
     "slug": "portainer",
-    "status": "up",
+    "status": "down",
     "uptime": "97.44%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.70%",
-    "time": 829,
-    "timeDay": 939,
-    "timeWeek": 844,
-    "timeMonth": 787,
-    "timeYear": 815,
+    "time": 832,
+    "timeDay": 1328,
+    "timeWeek": 956,
+    "timeMonth": 830,
+    "timeYear": 817,
     "dailyMinutesDown": {
       "2025-12-24": 266,
       "2026-03-03": 706,
@@ -458,7 +459,8 @@
       "2026-02-26": 1440,
       "2026-02-25": 1440,
       "2026-02-24": 1440,
-      "2026-02-23": 1031
+      "2026-02-23": 1031,
+      "2026-10-06": 0
     }
   }
 ]
