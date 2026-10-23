@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-23": 208,
+      "2026-10-23": 326,
       "2026-10-22": 1440,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
@@ -406,13 +406,13 @@
     "url": "https://jellyfin.byungchan.kim",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.byungchan.kim.ico",
     "slug": "jellyfin",
-    "status": "up",
+    "status": "down",
     "uptime": "97.20%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.03%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.02%",
     "uptimeYear": "97.54%",
-    "time": 986,
+    "time": 987,
     "timeDay": 1287,
     "timeWeek": 1107,
     "timeMonth": 1249,
@@ -430,7 +430,8 @@
       "2026-02-24": 1440,
       "2026-02-23": 1031,
       "2026-07-21": 423,
-      "2026-10-06": 426
+      "2026-10-06": 426,
+      "2026-10-23": 5
     }
   },
   {
@@ -438,13 +439,13 @@
     "url": "https://portainer.byungchan.kim",
     "icon": "https://icons.duckduckgo.com/ip3/portainer.byungchan.kim.ico",
     "slug": "portainer",
-    "status": "up",
+    "status": "down",
     "uptime": "97.45%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.03%",
     "uptimeYear": "97.62%",
-    "time": 831,
+    "time": 830,
     "timeDay": 808,
     "timeWeek": 777,
     "timeMonth": 840,
@@ -460,7 +461,8 @@
       "2026-02-25": 1440,
       "2026-02-24": 1440,
       "2026-02-23": 1031,
-      "2026-10-06": 426
+      "2026-10-06": 426,
+      "2026-10-23": 0
     }
   }
 ]
