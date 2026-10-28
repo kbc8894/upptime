@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rt-ac58u.byungchan.kim.ico",
     "slug": "rt-ac58u",
     "status": "down",
-    "uptime": "47.78%",
+    "uptime": "47.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-27": 228,
+      "2026-10-28": 121,
+      "2026-10-27": 1440,
       "2026-10-26": 1440,
       "2026-10-25": 1440,
       "2026-10-24": 1440,
@@ -379,8 +380,7 @@
       "2025-11-01": 1440,
       "2025-10-31": 1440,
       "2025-10-30": 1440,
-      "2025-10-29": 1440,
-      "2025-10-28": 1440
+      "2025-10-29": 1440
     }
   },
   {
@@ -395,8 +395,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 768,
-    "timeDay": 894,
-    "timeWeek": 865,
+    "timeDay": 794,
+    "timeWeek": 846,
     "timeMonth": 829,
     "timeYear": 786,
     "dailyMinutesDown": {}
@@ -406,17 +406,17 @@
     "url": "https://jellyfin.byungchan.kim",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.byungchan.kim.ico",
     "slug": "jellyfin",
-    "status": "up",
+    "status": "down",
     "uptime": "97.18%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "94.17%",
-    "uptimeMonth": "97.69%",
+    "uptimeMonth": "97.68%",
     "uptimeYear": "97.42%",
-    "time": 988,
-    "timeDay": 1246,
-    "timeWeek": 1215,
-    "timeMonth": 1249,
-    "timeYear": 1023,
+    "time": 994,
+    "timeDay": 3563,
+    "timeWeek": 1518,
+    "timeMonth": 1326,
+    "timeYear": 1030,
     "dailyMinutesDown": {
       "2025-12-24": 267,
       "2025-12-26": 15,
@@ -431,7 +431,8 @@
       "2026-02-23": 1031,
       "2026-07-21": 423,
       "2026-10-06": 426,
-      "2026-10-23": 587
+      "2026-10-23": 587,
+      "2026-10-28": 1
     }
   },
   {
@@ -439,17 +440,17 @@
     "url": "https://portainer.byungchan.kim",
     "icon": "https://icons.duckduckgo.com/ip3/portainer.byungchan.kim.ico",
     "slug": "portainer",
-    "status": "up",
+    "status": "down",
     "uptime": "97.43%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "94.22%",
     "uptimeMonth": "97.70%",
     "uptimeYear": "97.51%",
-    "time": 830,
-    "timeDay": 818,
-    "timeWeek": 869,
-    "timeMonth": 847,
-    "timeYear": 814,
+    "time": 835,
+    "timeDay": 3554,
+    "timeWeek": 1200,
+    "timeMonth": 935,
+    "timeYear": 822,
     "dailyMinutesDown": {
       "2025-12-24": 266,
       "2026-03-03": 706,
@@ -462,7 +463,8 @@
       "2026-02-24": 1440,
       "2026-02-23": 1031,
       "2026-10-06": 426,
-      "2026-10-23": 583
+      "2026-10-23": 583,
+      "2026-10-28": 0
     }
   }
 ]
