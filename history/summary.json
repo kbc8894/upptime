@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-02": 272,
+      "2026-11-02": 295,
       "2026-11-01": 1440,
       "2026-10-31": 1440,
       "2026-10-30": 1440,
@@ -440,17 +440,17 @@
     "url": "https://portainer.byungchan.kim",
     "icon": "https://icons.duckduckgo.com/ip3/portainer.byungchan.kim.ico",
     "slug": "portainer",
-    "status": "up",
+    "status": "down",
     "uptime": "97.42%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "94.75%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "94.74%",
     "uptimeMonth": "96.49%",
     "uptimeYear": "97.41%",
-    "time": 834,
-    "timeDay": 738,
-    "timeWeek": 1137,
-    "timeMonth": 918,
-    "timeYear": 821,
+    "time": 833,
+    "timeDay": 663,
+    "timeWeek": 1076,
+    "timeMonth": 909,
+    "timeYear": 820,
     "dailyMinutesDown": {
       "2025-12-24": 266,
       "2026-03-03": 706,
@@ -464,7 +464,8 @@
       "2026-02-23": 1031,
       "2026-10-06": 426,
       "2026-10-23": 583,
-      "2026-10-28": 530
+      "2026-10-28": 530,
+      "2026-11-02": 0
     }
   }
 ]
