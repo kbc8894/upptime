@@ -3,14 +3,23 @@ owner: kbc8894 # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 user-agent: kbc8894
 sites:
-  - name: rt-ac58u
-    url: https://rt-ac58u.byungchan.kim
+  - name: Blog
+    url: https://blog.byungchan.kim
   - name: Bitwarden
     url: https://vault.byungchan.kim
   - name: Jellyfin
     url: https://jellyfin.byungchan.kim
+  - name: Dashboard
+    url: https://dashboard.byungchan.kim
+  - name: UpSnap
+    url: https://upsnap.byungchan.kim
+  - name: RSS (Miniflux)
+    url: https://rss.byungchan.kim
   - name: Portainer
     url: https://portainer.byungchan.kim
+    expectedStatusCodes:
+      - 200
+      - 403
 
 assignees:
   - kbc8894
@@ -28,6 +37,3 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
