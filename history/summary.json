@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 931,
     "timeDay": 938,
-    "timeWeek": 931,
+    "timeWeek": 954,
     "timeMonth": 931,
     "timeYear": 931,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 773,
     "timeDay": 1014,
-    "timeWeek": 902,
+    "timeWeek": 886,
     "timeMonth": 838,
     "timeYear": 791,
     "dailyMinutesDown": {}
@@ -40,17 +40,17 @@
     "url": "https://jellyfin.byungchan.kim",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.byungchan.kim.ico",
     "slug": "jellyfin",
-    "status": "up",
+    "status": "down",
     "uptime": "97.16%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "93.86%",
     "uptimeMonth": "96.04%",
     "uptimeYear": "97.21%",
-    "time": 1013,
-    "timeDay": 1514,
-    "timeWeek": 1656,
-    "timeMonth": 1391,
-    "timeYear": 1055,
+    "time": 1016,
+    "timeDay": 1750,
+    "timeWeek": 1718,
+    "timeMonth": 1407,
+    "timeYear": 1058,
     "dailyMinutesDown": {
       "2025-12-24": 267,
       "2025-12-26": 15,
@@ -67,7 +67,8 @@
       "2026-10-06": 426,
       "2026-10-23": 587,
       "2026-10-28": 530,
-      "2026-11-05": 619
+      "2026-11-05": 619,
+      "2026-11-09": 1
     }
   },
   {
@@ -83,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 1049,
     "timeDay": 992,
-    "timeWeek": 1049,
+    "timeWeek": 1039,
     "timeMonth": 1049,
     "timeYear": 1049,
     "dailyMinutesDown": {}
@@ -101,7 +102,7 @@
     "uptimeYear": "100.00%",
     "time": 647,
     "timeDay": 496,
-    "timeWeek": 647,
+    "timeWeek": 619,
     "timeMonth": 647,
     "timeYear": 647,
     "dailyMinutesDown": {}
@@ -111,19 +112,20 @@
     "url": "https://rss.byungchan.kim",
     "icon": "https://icons.duckduckgo.com/ip3/rss.byungchan.kim.ico",
     "slug": "rss-miniflux",
-    "status": "up",
-    "uptime": "93.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "93.85%",
-    "uptimeMonth": "93.85%",
-    "uptimeYear": "93.85%",
-    "time": 828,
-    "timeDay": 625,
-    "timeWeek": 828,
-    "timeMonth": 828,
-    "timeYear": 828,
+    "status": "down",
+    "uptime": "94.02%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "93.86%",
+    "uptimeMonth": "94.02%",
+    "uptimeYear": "94.02%",
+    "time": 1107,
+    "timeDay": 2122,
+    "timeWeek": 1162,
+    "timeMonth": 1107,
+    "timeYear": 1107,
     "dailyMinutesDown": {
-      "2026-11-05": 618
+      "2026-11-05": 618,
+      "2026-11-09": 0
     }
   },
   {
@@ -134,12 +136,12 @@
     "status": "up",
     "uptime": "97.43%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "97.42%",
     "uptimeYear": "97.40%",
     "time": 830,
     "timeDay": 744,
-    "timeWeek": 610,
+    "timeWeek": 585,
     "timeMonth": 840,
     "timeYear": 815,
     "dailyMinutesDown": {
