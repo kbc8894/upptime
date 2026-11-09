@@ -1,7 +1,7 @@
 url: https://rss.byungchan.kim
-status: up
-code: 200
-responseTime: 625
-lastUpdated: 2026-11-09T02:20:59.693Z
+status: down
+code: 502
+responseTime: 3619
+lastUpdated: 2026-11-09T09:41:19.436Z
 startTime: 2026-11-02T05:15:21.306Z
 generator: Upptime <https://github.com/upptime/upptime>
