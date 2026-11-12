@@ -44,8 +44,8 @@
     "uptime": "97.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "54.91%",
-    "uptimeMonth": "86.97%",
-    "uptimeYear": "96.45%",
+    "uptimeMonth": "86.70%",
+    "uptimeYear": "96.43%",
     "time": 1024,
     "timeDay": 0,
     "timeWeek": 1879,
@@ -68,7 +68,7 @@
       "2026-10-23": 587,
       "2026-10-28": 530,
       "2026-11-05": 619,
-      "2026-11-12": 234,
+      "2026-11-12": 350,
       "2026-11-11": 1440,
       "2026-11-10": 1440,
       "2026-11-09": 859
@@ -98,18 +98,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/upsnap.byungchan.kim.ico",
     "slug": "up-snap",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.13%",
+    "uptimeDay": "91.27%",
+    "uptimeWeek": "98.75%",
+    "uptimeMonth": "99.13%",
+    "uptimeYear": "99.13%",
     "time": 634,
     "timeDay": 0,
     "timeWeek": 627,
     "timeMonth": 634,
     "timeYear": 634,
     "dailyMinutesDown": {
-      "2026-11-12": 10
+      "2026-11-12": 126
     }
   },
   {
@@ -118,11 +118,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/rss.byungchan.kim.ico",
     "slug": "rss-miniflux",
     "status": "down",
-    "uptime": "67.93%",
+    "uptime": "67.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "54.91%",
-    "uptimeMonth": "67.93%",
-    "uptimeYear": "67.93%",
+    "uptimeMonth": "67.39%",
+    "uptimeYear": "67.39%",
     "time": 1374,
     "timeDay": 0,
     "timeWeek": 1593,
@@ -130,7 +130,7 @@
     "timeYear": 1374,
     "dailyMinutesDown": {
       "2026-11-05": 618,
-      "2026-11-12": 234,
+      "2026-11-12": 350,
       "2026-11-11": 1440,
       "2026-11-10": 1440,
       "2026-11-09": 859
@@ -143,10 +143,10 @@
     "slug": "portainer",
     "status": "down",
     "uptime": "97.43%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.41%",
-    "uptimeYear": "97.40%",
+    "uptimeDay": "91.95%",
+    "uptimeWeek": "98.85%",
+    "uptimeMonth": "97.15%",
+    "uptimeYear": "97.38%",
     "time": 829,
     "timeDay": 0,
     "timeWeek": 633,
@@ -167,7 +167,7 @@
       "2026-10-23": 583,
       "2026-10-28": 530,
       "2026-11-02": 20,
-      "2026-11-12": 0
+      "2026-11-12": 116
     }
   }
 ]
